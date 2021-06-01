@@ -1,4 +1,3 @@
-![CAT CHAT (1)](https://user-images.githubusercontent.com/77355204/120286057-8b38ca00-c2c6-11eb-9234-10137bdfd53c.png)
 # Jv_HF_CatChat
 
 НАЗВАНИЕ ПРИЛОЖЕНИЯ: CatChat
